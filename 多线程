@@ -1,0 +1,2 @@
+thread类负责执行线程，线程同步由mutex类和condition_variable类负责
+future 类用于获取异步线程执行的结果，它允许你在多线程程序中等待异步操作的完成
