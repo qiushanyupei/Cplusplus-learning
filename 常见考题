@@ -1,0 +1,2 @@
+const 位于*的左边时含义相同：const int *a = &b;和int const *a = &b;
+const 位于*的右边时含义相同
